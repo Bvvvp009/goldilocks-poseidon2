@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "poseidon-hash",
+    "crypto",
+]
+resolver = "2"
